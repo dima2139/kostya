@@ -9,7 +9,7 @@ void inp_mas(int mas[], int &n)
         cout<<mas[i]<<" ";
     }
     cout<<"OK";
-    mas[500003] = 5;
+    mas[500004] = 5;
 }
 void index_sorting(int mas[], int n)
 {
