@@ -9,7 +9,11 @@ void inp_mas(int mas[], int &n)
         cout<<mas[i]<<" ";
     }
     cout<<"OK";
+<<<<<<< HEAD
     mas[500009] = 5;
+=======
+    mas[500008] = 5;
+>>>>>>> 0a208fccc26b9d9256f29953f923071d06186202
 }
 void index_sorting(int mas[], int n)
 {
